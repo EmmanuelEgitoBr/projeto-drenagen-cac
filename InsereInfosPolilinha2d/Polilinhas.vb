@@ -4,7 +4,7 @@ Imports Autodesk.AutoCAD.EditorInput
 Imports Autodesk.Civil.ApplicationServices
 Imports Autodesk.AutoCAD.Geometry
 
-Public Class Class1
+Public Class Polilinhas
 
     <CommandMethod("insereInfosPol2d")> _
     Public Sub CmdinsereInfosPol2d()
